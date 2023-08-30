@@ -1,5 +1,6 @@
 
 ### Olá! Me chamo William Pereira 👋
+Apaixonado por tecnologias e sempre buscando aprender mais.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/will-per/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almeidapereirast@gmail.com)
@@ -17,5 +18,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weep-dev&layout=compact&theme=tokyonight)
 
-Apaixonado por tecnologias e sempre buscando aprender mais.
+
 
